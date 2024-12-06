@@ -7,3 +7,14 @@
 html{
     scroll-behavior: smooth;
 }
+
+body{
+    background-color: aqua;
+}
+
+div {
+    background-color: beige;
+    padding: 20px;
+}
+
+
