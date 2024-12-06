@@ -3,3 +3,16 @@
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: aqua;
+}
+
+div {
+    background-color: beige;
+    padding: 20px;
+}
